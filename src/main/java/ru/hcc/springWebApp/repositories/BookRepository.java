@@ -1,4 +1,4 @@
-package ru.hcc.springWebApp.domain.repositories;
+package ru.hcc.springWebApp.repositories;
 
 import org.springframework.data.repository.CrudRepository;
 import ru.hcc.springWebApp.domain.Book;
